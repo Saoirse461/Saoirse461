@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saoirse461
 - 👀 I’m interested in programming! Specifically, website dev and stuff like that
-- 🌱 I’m currently learning Ruby on Rails
+- 🌱 I’m currently learning how to make good websites!
 - 💞️ I’m looking to collaborate on expanding programming knowlege
 - 📫 How to reach me: gmail - nelsaoirse@gmail.com
 - 😄 Pronouns: She/her
